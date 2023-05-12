@@ -1,4 +1,4 @@
-## Olá, sou o Luccas Faro 😜✌️
+## Olá, sou o Luccas 😜✌️
 
 - Aperfeiçoando as linguagens Front-End
 - Iniciando na linguagem de C#
